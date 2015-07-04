@@ -1,0 +1,6 @@
+/home/cloudera/workspace/stockrecord/src/main/java/com/krishna/hadoop/mapreduce/package-info.java
+/home/cloudera/workspace/stockrecord/src/main/java/com/krishna/hadoop/mapreduce/StockRecordParser.java
+/home/cloudera/workspace/stockrecord/src/main/java/com/krishna/hadoop/mapreduce/VolumePricePair.java
+/home/cloudera/workspace/stockrecord/src/main/java/com/krishna/hadoop/mapreduce/StockRecordMapper.java
+/home/cloudera/workspace/stockrecord/src/main/java/com/krishna/hadoop/mapreduce/StockRecordReducer.java
+/home/cloudera/workspace/stockrecord/src/main/java/com/krishna/hadoop/mapreduce/StockRecordDriver.java

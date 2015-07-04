@@ -1,0 +1,3 @@
+/home/cloudera/workspace/stockrecord/src/test/java/com/krishna/hadoop/mapreduce/StockRecordMapperTest.java
+/home/cloudera/workspace/stockrecord/src/test/java/com/krishna/hadoop/mapreduce/StockRecordReducerTest.java
+/home/cloudera/workspace/stockrecord/src/test/java/com/krishna/hadoop/mapreduce/StockRecordParserTest.java
